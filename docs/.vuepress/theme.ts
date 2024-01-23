@@ -23,13 +23,9 @@ export default hopeTheme(
       "/en/": {
         // navbar
         navbar: enNavbar,
-
         // sidebar
         sidebar: enSidebar,
-
-
         displayFooter: true,
-
         metaLocales: {
           editLink: "Edit this page on GitHub",
         },
@@ -41,13 +37,9 @@ export default hopeTheme(
       "/": {
         // navbar
         navbar: zhNavbar,
-
         // sidebar
         sidebar: zhSidebar,
-
-
         displayFooter: true,
-
         // page meta
         metaLocales: {
           editLink: "在 GitHub 上编辑此页",

@@ -4,6 +4,7 @@ import theme from "./theme.js";
 export default defineUserConfig({
   base: "/EASE_PAAS_DOCS/",
   dest: "docs/.vuepress/dist",
+  lang:'zh-CN',
   locales: {
     "/": {
       lang: "zh-CN",
