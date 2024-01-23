@@ -1,0 +1,1 @@
+import{_ as t}from"./plugin-vue_export-helper-x3n3nnut.js";import{o as e,c}from"./app-ob3M9UD7.js";const r={};function o(_,a){return e(),c("div")}const f=t(r,[["render",o],["__file","quick-start.html.vue"]]);export{f as default};
